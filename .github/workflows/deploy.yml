@@ -2,7 +2,7 @@ name: Python flask example
 
 on:
   push:
-    branches: [main]
+    branches: [dev]
 
 jobs:
   build:
